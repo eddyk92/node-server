@@ -1,0 +1,23 @@
+{
+  "name": "node-http-server-intro",
+  "version": "1.0.0",
+  "description": "In this exercise, you'll use the `fs` module and the `http` module to create an HTTP file server.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gSchool/node-http-server-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gSchool/node-http-server-intro/issues"
+  },
+  "homepage": "https://github.com/gSchool/node-http-server-intro#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
